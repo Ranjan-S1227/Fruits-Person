@@ -1,0 +1,10 @@
+first delete the database fruitsDb if it exists using mongo terminal.
+use fruitsDb
+db.dropDatabase()
+
+Then uncomment the save() and insertMany() for the first time, while executing the program.
+
+comment out all the save() and insert statements, while running the code from second time.
+
+
+-> the comments with BREAKPOINTS(red dot), are the instructions or method being performed.
